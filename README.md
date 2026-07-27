@@ -13,12 +13,15 @@ Realizar uma análise exploratória de dados de jogadores da temporada 2025/26 u
 - Limpeza de dados 
 - Remoção de duplicatas 
 - Renomeação das colunas 
-- Análise do jogagor que marcou mais gols na temporada
-- Ranking dos jogadores com mais gols
-- Ranking dos jogadores com maior valor de mercado
+- Identificação do jogador que marcou mais gols na temporada
+- Ranking dos 10 jogadores com mais gols
+- Ranking dos 10 jogadores com maior valor de mercado
 
 ## Principais aprendizados 
 - Manipulação de Dataframes
 - Limpeza de dados 
 - Ordenação de dados 
 - Análise exploratória utilizando Pandas
+
+## Fonte dos Dados
+Dataset obtido no Kaggle e utilizado exclusivamente para fins de estudos e desenvolvimentos de habilidades em análise de dados.
